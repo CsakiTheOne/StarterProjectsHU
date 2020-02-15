@@ -19,4 +19,3 @@ A program írjon ki egy random számot, de a felhasználó adja meg a minimumot 
 
 Figyelj:
 - ellenőrizd, hogy a minimum kisebb legyen, mint a max
-- 
