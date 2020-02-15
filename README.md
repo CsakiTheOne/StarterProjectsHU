@@ -1,6 +1,6 @@
 # Programozás projekt ötletek tanulóknak
 
-Egyszerű, de nem unalmas feladatok, tanulni kezdő programozóknak. FIGYELEM! Csak ezekkel a feladatokkal nem lehet tanulni, ezek csak gyakorlás céljából jöttek létre.
+Egyszerű(, de nem unalmas) feladatok, tanulni kezdő programozóknak. FIGYELEM! Csak ezekkel a feladatokkal nem lehet tanulni, ezek csak gyakorlás céljából jöttek létre.
 
 ## Nehézségi szintek
 

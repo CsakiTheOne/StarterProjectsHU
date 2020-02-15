@@ -4,7 +4,7 @@
 
 ## ELSŐ PROGRAM!
 
-A program írja ki, hogy "Hello, World!". :D
+A program írja ki, hogy "Hello, World!". :D De előbb rakd bele egy változóba!
 
 ## Random szám
 
