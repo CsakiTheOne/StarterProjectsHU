@@ -4,9 +4,9 @@ Egyszerű, de nem unalmas feladatok, tanulni kezdő programozóknak. FIGYELEM! C
 
 ## Nehézségi szintek
 
-| Jelölés | Jelentés                            | Példa feladat    |                          |
-| ------- | ----------------------------------- | ---------------- | ------------------------ |
-| A       | Változók írása olvasása és számolás | Pitagorasz tétel | [link](./Feladatok/A.md) |
-| B       | Elágazások (if, switch)             | Számológép       | [link](./Feladatok/B.md) |
-| C       | Ciklusok (for, while, stb.), tömbök | Összegzés        | [link](./Feladatok/C.md) |
-| D       | Ciklus+if vagy más bonyolult dolog  | Buborék rendezés | [link](./Feladatok/D.md) |
+| Szint | Jelentés                         | Példa            |                          |
+| ----- | -------------------------------- | ---------------- | ------------------------ |
+| A     | Változók írás, olvasás, számolás | Pitagorasz tétel | [link](./Feladatok/A.md) |
+| B     | Elágazások (if, switch)          | Számológép       | [link](./Feladatok/B.md) |
+| C     | Ciklusok és tömbök               | Összegzés        | [link](./Feladatok/C.md) |
+| D     | Előzők kombínálva                | Buborék rendezés | [link](./Feladatok/D.md) |
