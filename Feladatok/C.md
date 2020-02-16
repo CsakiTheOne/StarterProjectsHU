@@ -1,20 +1,23 @@
 [Vissza](../README.md)
 
-# "C" szint
+# "Ciklus" szint
 
 ## Összegző
 
 A felhasználó számokat ír be végjelig.
 A program összeadja ezeket és a végjel után kiírja az összeget.
 
+Bónusz:
+- számolj átlagot és máris jobb programod van, mint az e-kréta :ok_hand:
+
 ## Leghosszabb szó
 
-A felhasználó beír egy szöveget és a program kiírja a leghosszabb szót belőle.
+A felhasználó beír egy szöveget és a program kiírja a leghosszabb szót belőle. Pro tipp: másold be egy Wikipédia oldal szövegét.
 
 Figyelj:
 - az írásjelek nem betűk (.,)
 
-## Random szám 3
+## Random mondat
 
 A programban legyen 1 vagy több tömb szavakkal és kifejezésekkel. Ezekből generálj egy random mondatot.
 

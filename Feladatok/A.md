@@ -1,10 +1,13 @@
 [Vissza](../README.md)
 
-# "A" szint
+# "Alfa" szint
 
 ## ELSŐ PROGRAM!
 
-A program írja ki, hogy "Hello, World!". :D De előbb rakd bele egy változóba!
+A program írja ki, hogy "Hello, World!". :smile: De előbb rakd bele egy változóba!
+
+Bónusz:
+- felhasználó írja be a nevét és a program köszönjön neki
 
 ## Random szám
 
