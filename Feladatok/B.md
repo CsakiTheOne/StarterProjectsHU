@@ -23,3 +23,8 @@ Figyelj:
 Bónusz:
 - felhasználó választhasson, hogy egész vagy tört számokat akar
 - fej vagy írás funkció
+
+## Két pont távolsága
+
+Egy program, amivel 2 koordináta alapján megtudhatod, milyen messze vagy Minecraft-ban a haverodtól. Legyen választható, hogy 2D-s vagy 3D-s térről van szó.
+2D-nél egy sima pitagorasz tétel, 3D-nél meg 2 kell a számoláshoz.

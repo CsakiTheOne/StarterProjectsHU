@@ -2,7 +2,7 @@
 
 Egyszerű(, de nem unalmas) feladatok, tanulni kezdő programozóknak. FIGYELEM! Csak ezekkel a feladatokkal nem lehet tanulni, ezek csak gyakorlás céljából jöttek létre.
 
-## Nehézségi szintek
+## Feladatok
 
 | Szint      | Jelentés                         | Példa            |                          |
 | ---------- | -------------------------------- | ---------------- | ------------------------ |
@@ -10,6 +10,18 @@ Egyszerű(, de nem unalmas) feladatok, tanulni kezdő programozóknak. FIGYELEM!
 | **Béta**   | Elágazások (if, switch)          | Számológép       | [link](./Feladatok/B.md) |
 | **Ciklus** | Ciklusok és tömbök               | Összegzés        | [link](./Feladatok/C.md) |
 | **D**      | Előzők kombínálva                | Buborék rendezés | [link](./Feladatok/D.md) |
+
+## "Tananyagok"
+
+Hasznos példakódok.
+
+- [Brainfuck](Tananyagok/brainfuck.md)
+- [C# alapok](./Tananyagok/c#%20alapok.cs)
+- [Öröklődés](Tananyagok/öröklődés.md)
+
+## Ajánlott repository-k
+
+- [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
 
 ## Közreműködés
 
