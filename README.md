@@ -4,12 +4,12 @@ Egyszerű(, de nem unalmas) feladatok, tanulni kezdő programozóknak. FIGYELEM!
 
 ## Feladatok
 
-| Szint      | Jelentés                         | Példa            |                          |
-| ---------- | -------------------------------- | ---------------- | ------------------------ |
-| **Alfa**   | Változók írás, olvasás, számolás | Pitagorasz tétel | [link](./Feladatok/A.md) |
-| **Béta**   | Elágazások (if, switch)          | Számológép       | [link](./Feladatok/B.md) |
-| **Ciklus** | Ciklusok és tömbök               | Összegzés        | [link](./Feladatok/C.md) |
-| **D**      | Előzők kombínálva                | Buborék rendezés | [link](./Feladatok/D.md) |
+| Szint                      | Jelentés                        | Példa            |
+| -------------------------- | ------------------------------- | ---------------- |
+| [Alfa](./Feladatok/A.md)   | Változó írás, olvasás, számolás | Pitagorasz tétel |
+| [Béta](./Feladatok/B.md)   | Elágazások (if, switch)         | Számológép       |
+| [Ciklus](./Feladatok/C.md) | Ciklusok és tömbök              | Összegzés        |
+| [D](./Feladatok/D.md)      | Előzők kombínálva               | Buborék rendezés |
 
 ## "Tananyagok"
 
