@@ -17,7 +17,7 @@ Egyszerű(, de nem unalmas) feladatok, tanulni kezdő programozóknak. FIGYELEM!
 Hasznos példakódok.
 
 - [Brainfuck](Tananyagok/brainfuck.md)
-- [C# alapok](./Tananyagok/c#%20alapok.cs)
+- [C# alapok](./Tananyagok/c#%20alapok.md)
 - [Öröklődés](Tananyagok/öröklődés.md)
 
 ## Ajánlott repository-k

@@ -1,3 +1,8 @@
+[Vissza](../README.md)
+
+# C# alapok
+
+```cs
 // Könyvtárak importálása
 using System;
 using System.IO;
@@ -50,3 +55,4 @@ namespace Basics
         }
     }
 }
+```
