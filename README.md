@@ -10,6 +10,7 @@ Egyszerű(, de nem unalmas) feladatok, tanulni kezdő programozóknak. FIGYELEM!
 | [Béta](./Feladatok/B.md)   | Elágazások (if, switch)         | Számológép       |
 | [Ciklus](./Feladatok/C.md) | Ciklusok és tömbök              | Összegzés        |
 | [D](./Feladatok/D.md)      | Előzők kombínálva               | Buborék rendezés |
+| [Tételek](Feladatok/T.md)  | Programozási tételek            | Összegzés tétele |
 
 ## "Tananyagok"
 
