@@ -27,3 +27,10 @@ Hasznos példakódok.
 ## Közreműködés
 
 Bárki nyugodtan adhat hozzá vagy módosíthat ötleteket, csak csináljon egy pull request-et és ott megbeszéljük. Figyelj, hogy a forma passzoljon az eddigiekhez.
+
+### Feladatok
+
+- [ ] Mégtöbb gyakorló feladat
+- [ ] Unalmas feladatok átírása
+- [ ] Feladatok a D kategóriába
+- [ ] Tétel leírások átírása ebbe a projektbe
