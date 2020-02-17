@@ -2,7 +2,9 @@
 
 # "Ciklus" szint
 
-## Összegző
+## Összegzés tétele
+
+Lásd: [itt](T.md)
 
 A felhasználó számokat ír be végjelig.
 A program összeadja ezeket és a végjel után kiírja az összeget.
