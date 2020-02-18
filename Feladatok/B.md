@@ -13,6 +13,9 @@ Bónusz:
 
 A felhasználó beír 2 számot és egy műveletet, amit a program elvégez.
 
+Bónusz:
+- hatványozás, gyökvonás
+
 ## Random szám 2.0
 
 A program írjon ki egy random számot, de a felhasználó adja meg a minimumot és maximumot.

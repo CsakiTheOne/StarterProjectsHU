@@ -2,7 +2,7 @@
 
 # "Ciklus" szint
 
-## Összegzés tétele
+## Összegzés tétele módosítva
 
 Lásd: [itt](T.md)
 

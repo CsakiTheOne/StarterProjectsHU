@@ -4,7 +4,7 @@
 
 ## Tételek
 
-Ajánlott ezen a szinten a programozási tételeket átnézni
+Ajánlott ezen a szinten a programozási tételeket átnézni:
 
 [Programozási tételek megtekintése](T.md)
 
